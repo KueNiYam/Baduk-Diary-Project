@@ -13,6 +13,12 @@
 ![slide](./images/슬라이드8.JPG)
 ![slide](./images/슬라이드9.JPG)
 ![slide](./images/슬라이드10.JPG)
-[![slide](http://img.youtube.com/vi/KSzrfWE4x3w/0.jpg){: .center}](https://youtu.be/KSzrfWE4x3w)
+
+<center>
+
+[![slide](http://img.youtube.com/vi/KSzrfWE4x3w/0.jpg)](https://youtu.be/KSzrfWE4x3w)
+
+</center>
+
 ![slide](./images/슬라이드12.JPG)
 ![slide](./images/슬라이드13.JPG)
