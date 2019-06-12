@@ -1,6 +1,8 @@
 # Baduk-Diary-Project
 바둑 일기 프로젝트
 
+# 최종 발표 자료
+
 ![slide](./images/슬라이드1.JPG)
 ![slide](./images/슬라이드2.JPG)
 ![slide](./images/슬라이드3.JPG)
