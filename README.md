@@ -13,6 +13,7 @@
 ![slide](./images/슬라이드8.JPG)
 ![slide](./images/슬라이드9.JPG)
 ![slide](./images/슬라이드10.JPG)
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=KSzrfWE4x3w" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+[![slide](스크린샷 이미지)](유투브링크)
+[![slide](http://img.youtube.com/vi/KSzrfWE4x3w/0.jpg)](https://youtu.be/KSzrfWE4x3w)
 ![slide](./images/슬라이드12.JPG)
 ![slide](./images/슬라이드13.JPG)
